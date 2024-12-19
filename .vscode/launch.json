@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "externalTerminal",
             // "console": "integratedTerminal",
-            "justMyCode": true
+            "justMyCode": true,
         }
     ]
 }
